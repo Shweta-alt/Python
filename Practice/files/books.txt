@@ -1,0 +1,18 @@
+Read ebooks
+You can change the font, text size, and jump to chapters when you read ebooks.
+
+On your Android phone or tablet, open the Google Play Books app Play Books.
+Select a book.
+Tap the center of the page.
+Swipe to quickly flip through pages.
+To jump to a chapter, bookmark, or note, tap Contents Contents.
+To change font, text size, and line spacing, tap Display options Display options.
+To change brightness or background color, tap Display options Display options and then Lighting.
+To rotate your screen, or adjust based on time of day, tap Settings Settings.
+To go back to your ebook, tap the center of the page again, or tap Back.
+You can download ebooks to your device or SD card. Learn how to download and read books offline.
+
+Print books
+You can print ebooks using your computer.
+
+Important: Some ebooks have limits on how many pages you can print. These limits are set by the book’s publisher and vary depending on the book. These limits are known as Digital Rights Management (DRM).

@@ -1,0 +1,37 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:REQUEST
+BEGIN:VEVENT
+DTSTART:20220714T110000Z
+DTEND:20220714T113000Z
+DTSTAMP:20220713T033317Z
+ORGANIZER;CN=himani@geekster.in:mailto:himani@geekster.in
+UID:omaamre4qvlb16c912umcepkrc@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE
+ ;CN=himani@geekster.in;X-NUM-GUESTS=0:mailto:himani@geekster.in
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE
+ ;CN=shwetarao7237@gmail.com;X-NUM-GUESTS=0:mailto:shwetarao7237@gmail.com
+X-GOOGLE-CONFERENCE:https://meet.google.com/oxg-iafh-rzm
+X-MICROSOFT-CDO-OWNERAPPTID:1254573257
+CREATED:20220713T033253Z
+DESCRIPTION:To cancel or reschedule\, visit this link: https://mxmx.me/4fW6
+ EZZ\n\nScheduled with Mixmax (mixmax.com)\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:
+ ~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-\nDo not edit this
+  section of the description.\n\nThis event has a video call.\nJoin: https:/
+ /meet.google.com/oxg-iafh-rzm\n(US) +1 513-796-6388 PIN: 875805199#\nView m
+ ore phone numbers: https://tel.meet/oxg-iafh-rzm?pin=9340252697340&hs=7\n\n
+ View your event at https://calendar.google.com/calendar/event?action=VIEW&e
+ id=b21hYW1yZTRxdmxiMTZjOTEydW1jZXBrcmMgc2h3ZXRhcmFvNzIzN0Bt&tok=MTgjaGltYW5
+ pQGdlZWtzdGVyLmluOTE2OGEwNWZkYmMyYjQwMDhlMjcyODczYTYwZmM3OWNlYjYzZmY0Yw&ctz
+ =Asia%2FKolkata&hl=en&es=1.\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:
+ ~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20220713T033254Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:One on One
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
